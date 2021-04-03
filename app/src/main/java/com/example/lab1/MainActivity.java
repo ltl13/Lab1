@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
 //        this.questionPanel = (TextView)findViewById();
 //        loadQuestion(2);
     }
+
 //    private int getId(String name){
 //        int questionId = this.getResources().getIdentifier(name, "string", this.getPackageName());
 //        return questionId;
