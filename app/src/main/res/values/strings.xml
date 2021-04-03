@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="question_1">Who is the first president of america </string>
+    <string name="answer_1_A">A. Washington</string>
+    <string name="answer_1_B">B. Obama</string>
+    <string name="answer_1_C">C. Trump</string>
+    <string name="answer_1_D">D. Kennydy</string>
+    <string name="correct_1">A</string>
+    <!-- question 1   -->
+
+    <string name="question_2">Which one is the longest river in the world</string>
+    <string name="answer_2A">A. Nile</string>
+    <string name="answer_2_B">B. Mekong</string>
+    <string name="answer_2_C">C. Amazone</string>
+    <string name="answer_2_D">D. Congo</string>
+    <string name="correct_2">A</string>
+</resources>
